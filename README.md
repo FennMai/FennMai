@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4E4E4E&background=FFFFFF00&random=false&width=435&lines=Keep+learning+every+day;%E5%A4%A9%E5%A4%A9%E7%88%B1%E5%AD%A6%E4%B9%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4E4E4E&background=FFFFFF00&random=false&width=435&lines=Keep+learning+every+day;%E5%A4%A9%E5%A4%A9%E7%88%B1%E5%AD%A6%E4%B9%A0)]()
 
 [![Fennmai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fennmai&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fennmai&theme=dark&card_width=1080)](https://git.io/streak-stats)
 
