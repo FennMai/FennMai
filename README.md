@@ -2,7 +2,7 @@
 
 - 😊 **Nickname**:  **FennMai**
 - 🤖 **Current Focus**
-    - I'm currently diving into the exciting realm of **Embodied AI**. (Even though I'm still a rookie)
+    - I'm currently diving into the exciting realm of **Embodied AI**. 
 - 📚 **Educational experience**
     - **Research Assistant (2024.10 - Now)**
       
